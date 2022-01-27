@@ -5,7 +5,7 @@
 ### Dependency
 - Anaconda (Python >= 3.8)
 ### Data
-The data for retweets can be downloaded from [Google Drive Link](https://drive.google.com/drive/folders/0BwqmV0EcoUc8UklIR1BKV25YR1U?resourcekey=0-OrlU87jyc1m-dVMmY5aC4w&usp=sharing)
+The data for retweets can be downloaded from [Google Drive Link](https://drive.google.com/drive/folders/0BwqmV0EcoUc8UklIR1BKV25YR1U?resourcekey=0-OrlU87jyc1m-dVMmY5aC4w&usp=sharing), provided by Hongyuan Mei from the [Neural Hawkes Process](https://github.com/hongyuanmei/neurawkes).
 
 The data for earthquakes and homicides can be downloaded from [Google Drive Link](https://drive.google.com/drive/folders/1ELuYM9qIj2hoSzJcYAs9UklcwO2WdTNu?usp=sharing)
 ### Train
